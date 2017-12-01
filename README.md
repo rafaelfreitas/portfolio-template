@@ -15,9 +15,9 @@ Moleza! Basta baixar este modelo, usá-lo em seu projeto.
 Encontrou um erro? Por favor, reporte pra mim.
 
 # Licença
-[MIT] Copyright (c) 2017 Rafael Freitas - Sob a licença MIT
+Copyright (c) 2017 Rafael Freitas - Sob a licença [MIT](https://github.com/rafaelfreitas/portfolio-template/blob/master/LICENSE)
 
-#Quer me pagar um café?
+# Quer me pagar um café?
 Se este projeto vai te ajudar a desenvolver mais rápido e melhor, talvez você possa me pagara um café. {|:o)
 
 [Doação](https://pag.ae/bhrDSgZ)
