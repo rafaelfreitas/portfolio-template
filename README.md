@@ -1,8 +1,8 @@
 # Portfolio
-Portfolio baseado em HTML5, CSS3 e Bootstrap 4. Este modelo esta sob a licença MIT, grátis para uso pessoal e comercial, sem qualquer atribuição. Gostou? Compartilhe esse template com seus amigos.
+Portfolio baseado em HTML5, CSS3 e Bootstrap 4. Este template esta sob a licença MIT, grátis para uso pessoal e comercial. Gostou? Compartilhe esse template com seus amigos.
 
 # Instalação
-Moleza! Basta baixar este modelo, usá-lo em seu projeto.
+Moleza! Basta baixar este template, usá-lo em seu projeto.
 
 # Características
 - Totalmente Responsivo
@@ -18,6 +18,6 @@ Encontrou um erro? Por favor, reporte pra mim.
 Copyright (c) 2017 Rafael Freitas - Sob a licença [MIT](https://github.com/rafaelfreitas/portfolio-template/blob/master/LICENSE)
 
 # Quer me pagar um café?
-Se este projeto vai te ajudar a desenvolver mais rápido e melhor, talvez você possa me pagara um café. {|:o)
+Se este projeto vai te ajudar, talvez você possa me pagar um café. {|:o)
 
 [Doação](https://pag.ae/bhrDSgZ)
